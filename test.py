@@ -17,4 +17,8 @@ print("123456")
 
 print("abc")
 
-print("task 2")
+print("edf")
+
+print("task1")
+
+print("task2")
